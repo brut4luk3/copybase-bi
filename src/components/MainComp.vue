@@ -69,7 +69,7 @@ export default {
       const formData = new FormData();
       formData.append('file', file);
 
-      axios.post('https://copybasebiapi-production.up.railway.app/upload', formData, {
+      axios.post('https://copybase-bi-api.vercel.app/upload', formData, {
         headers: {
           'Content-Type': 'multipart/form-data'
         }
