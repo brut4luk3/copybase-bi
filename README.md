@@ -1,24 +1,28 @@
 # copybase-bi
 
-## Project setup
+## Seja bem vindo ao meu teste!
+
+## Aqui vão algumas dicas básicas de como iniciar o projeto localmente:
+
+## Primeiramente, clone no Github
+```
+cd example
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+
+## Baixe as dependências
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile o código e rode o server de desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compile o código e deixe pronto pra produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### IMPORTANTE: No próprio site haverá um guia que lhe auxiliará a utilizar a plataforma!

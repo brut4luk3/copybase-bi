@@ -8,8 +8,17 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@nestjs/common": "^10.3.5",
+    "@nestjs/core": "^10.3.5",
+    "@nestjs/platform-express": "^10.3.5",
+    "@types/express": "^4.17.21",
+    "@types/multer": "^1.4.11",
+    "axios": "^1.6.8",
+    "chart.js": "^4.4.2",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "papaparse": "^5.4.1",
+    "vue": "^3.2.13",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
