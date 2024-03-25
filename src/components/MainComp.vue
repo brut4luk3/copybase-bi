@@ -69,7 +69,7 @@ export default {
       const formData = new FormData();
       formData.append('file', file);
 
-      axios.post('http://127.0.0.1:5000/upload', formData, {
+      axios.post('https://copybasebiapi-production.up.railway.app/upload', formData, {
         headers: {
           'Content-Type': 'multipart/form-data'
         }
