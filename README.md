@@ -7,7 +7,7 @@
 ## Primeiramente, clone no Github
 ```
 cd example
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/brut4luk3/copybase-bi
 ```
 
 ## Baixe as dependências
