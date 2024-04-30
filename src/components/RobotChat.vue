@@ -10,6 +10,8 @@
                 <p>2 - Para visualizar qualquer um dos gráficos menores, clique nele</p>
                 <p>3 - Para fechar o popup do gráfico, basta clicar fora</p>
                 <p>4 - Para mais dúvidas, acesse o link no footer e fale comigo</p>
+                <p>5 - Atualmente, o código deste site é dedicado a carregar dados desta planilha:</p>
+                <p><a href="https://docs.google.com/spreadsheets/d/1Nc1dPGsyJGFPIBf2VIknC_zZWZFy5oqke2X5jXdpUBI/edit#gid=440460926" target="_blank">Veja a planilha e baixe!</a></p>
                 <button @click="closeModal" class="close-btn">Fechar</button>
             </div>
         </div>
